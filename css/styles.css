@@ -1,4 +1,45 @@
+body {
+  background-color: #FAFAFA;
+}
+
+h2 {
+  font-size: 70px;
+  color: #01579B;
+  text-align: center;
+  margin-top: 50px;
+}
+
+p {
+  color: #01579B;
+  font-size: 30px;
+}
+
+img {
+  width: 100%;
+}
+
+.jumbotron {
+  background-color: #BBDEFB;
+}
+
+.btn {
+  background-color: #01579B;
+  color: white;
+}
+
+.btn:hover {
+  background-color: #0277BD;
+  color: white;
+  font-size: 20px;
+}
+
 #resultForm {
   display: none;
   font-size: 50px;
+}
+
+#input {
+  font-size: 20px;
+  color: #0277BD;
+  margin-top: 30px;
 }
